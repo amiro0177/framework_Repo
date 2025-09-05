@@ -13,4 +13,9 @@ public class PracticeDemo2Test {
 	public void modifyStopTest() {
 		System.out.println("This is Modify Stop Test");
 	}
+	
+	@Test
+	public void deleteStopTest() {
+		System.out.println("This is Delete Test");
+	}
 }
