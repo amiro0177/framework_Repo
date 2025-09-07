@@ -26,6 +26,11 @@ public class PracticeDemoTest {
 		System.out.println("This is Modify Start Test");
 	}
 	
+	@Test
+	public void deleteStartTest() {
+		System.out.println("This is Delete Start Test");
+	}
+	
 	
 
 }
